@@ -1,8 +1,7 @@
 // =========================
 // Backend URL
 // =========================
-
-const API = "http://127.0.0.1:5000";
+const API_URL = "https://ai-smart-learning-assistant-s98c.onrender.com";
 
 // =========================
 // Current User
